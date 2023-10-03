@@ -1,1 +1,1 @@
-# kids-world-responsive-mobile
+# kidz-world-html-boilerplate
