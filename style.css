@@ -86,7 +86,7 @@
 
 @media screen and (max-width:1000px) {
     .section0{
-        justify-content: space-between;
+        justify-content: space-around;
         padding: 10px;
     }
     #top-image{
